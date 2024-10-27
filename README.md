@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is extended version of "Animal Hand Sign Detection CLI" where I used Python Django framework to implement my trained models efficiently as a web app. The application works totally on web that captures video input from a webcam, detects hand signs, and outputs the recognized animal name and short introduction when "ok" sign is detected by model in a real-time.
+This project is extended version of "Animal Hand Sign Detection CLI" where I used Python Django framework to implement my trained models efficiently as a web app. The application works totally on a web that captures video input from a webcam, detects hand signs, and outputs the recognized animal name and short introduction when "ok" sign is detected by model in a real-time.
 
 ## Features
 
@@ -35,19 +35,19 @@ It is recommended to use a virtual environment to manage dependencies. Follow th
 
 - Clone the Repository
    ```bash
-     git clone https://github.com/MekhzZ/Animal-Hand-Sign-Detection-CLI.git
+     git clone https://github.com/MekhzZ/Animal_Hand_Sign_Detection_using_Django.git
    ```
 
 - Go to the Directory
 
    ```bash
-     cd Animal-Hand-Sign-Detection-CLI
+     cd Animal_Hand_Sign_Detection_using_Django
    ```
 
 - Install the Required Packages
 
    ```bash
-   pip install -r requirements.txt
+    pip install -r requirements.txt
    ```
 
 - Migrate the essentials
@@ -63,7 +63,7 @@ It is recommended to use a virtual environment to manage dependencies. Follow th
 - Running the Application
       
    ```bash
-     python manage.py runserver
+    python manage.py runserver
    ```
 
 ## Hand-Sign Guide
