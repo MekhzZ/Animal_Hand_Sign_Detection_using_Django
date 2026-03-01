@@ -11,6 +11,9 @@ This project is extended version of "Animal Hand Sign Detection CLI" where I use
 - Real-time hand sign detection using webcam.
 - Outputs the name and short introduction of the recognized animal when "ok" sign is detected.
 
+## Model training
+- https://github.com/MekhzZ/Animal_Hand_Sign_Model_Training
+
 
 ## Requirements
 
